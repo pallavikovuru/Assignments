@@ -1,7 +1,7 @@
 package Assignments;
 
 public class ReverseStr {
-/** Test reverse string*/
+/** Test reverse string******/
 	public static void main(String[] args) {
 		String str = "pallavi";
 		String reverse = "";

@@ -4,7 +4,7 @@ public class Task2 {
 
 	public static void main(String args[]) {
 		int[] a = { -3, 0, 4, 1, 98, -3, -4 };
-		System.out.println(solution(a));
+		System.out.println(solution("count:"+ a));
 	}
 
 	public static int solution(int[] A) {
